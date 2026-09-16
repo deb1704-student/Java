@@ -1,0 +1,22 @@
+# Java build output
+*.class
+out/
+bin/
+build/
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
